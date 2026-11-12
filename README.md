@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jay! <br/><a href="https://github.com/cybrd6">Cyber</a>, <a href="https://www.linkedin.com/in/jayden-jackson-636194372/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@cybrd6">YouTuber</a></h1>
+<h1>Hi, I'm Jay! <br/><a href="https://github.com/cybrd6">Git</a>, <a href="https://www.linkedin.com/in/jayden-jackson-636194372/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@cybrd6">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
