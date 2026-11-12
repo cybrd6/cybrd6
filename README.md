@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory HomeLab] (coming soon...)
+  - [Active Directory HomeLab] (https://github.com/cybrd6/Active-Directory-HomeLab)
   - [Microsoft Sentinel HomeLab] (coming soon...)
   - [Terraform  HomeLab] (coming soon...)
 
