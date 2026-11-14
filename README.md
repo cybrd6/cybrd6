@@ -1,14 +1,15 @@
-<h1>Hi, I'm Jay! <br/><a href="https://github.com/cybrd6">Git</a>, <a href="https://www.linkedin.com/in/jayden-jackson-636194372/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@cybrd6">YouTuber</a></h1>
+<h1>Hi, I'm Jay! <br/><a href="https://github.com/cybrd6">Git</a>, <a href="https://www.linkedin.com/in/jayden-jackson-636194372/">Aspiring Cybersecurity/Cloud Professional </a>, <a href="https://www.youtube.com/@cybrd6">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Azure Enterprise Infrastructure  HomeLab] (https://github.com/cybrd6/-azure-enterprise-infrastructure-lab)
   - [Active Directory HomeLab] (https://github.com/cybrd6/Active-Directory-HomeLab)
-  - [Microsoft Sentinel HomeLab] (coming soon...)
-  - [Terraform  HomeLab] (coming soon...)
 
+  -  (coming soon...)
+  
 <h2>📺 YouTube Videos</h2>
 
-- [Active Directory HomeLab]
+- (coming soon...)
 
 
 <h2> 🤳 Connect with me:</h2>
